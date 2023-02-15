@@ -18,6 +18,8 @@
 
 - __FIM (File Integrity Monitor)__<br/>  - [Coding File Integrity Monitor in Python](https://github.com/cloudyridercom/FIM)
 
+- __Password Checker__<br/>  - [Securely check if your password has been hacked](https://github.com/cloudyridercom/passwordchecker)
+
 - __Hackernews API__<br/>  - [Scraping Data from Hackernews](https://github.com/cloudyridercom/Hackernews)
 
 
