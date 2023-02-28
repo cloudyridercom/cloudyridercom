@@ -1,27 +1,20 @@
-# Hi, I'm Martin! <br/> Cybersecurity Analyst, Cloud Engineer
+# Hi, I'm Martin! <br/> Cybersecurity Analyst
 
 ## :closed_lock_with_key:Cybersecurity Projects
 
-- __SIEM in Azure__<br/>      - [Configure Sentinel(Powershell)](https://github.com/cloudyridercom/Azure-Sentinel)
+- __SIEM in Azure__<br/>      - [Configure Sentinel(Powershell)](https://github.com/cloudyridercom/azure_siem)
   
 - __Vulnerability Management with Nessus__<br/>    - [Configure Nessus to perform credentialed vulnerability scan](https://github.com/cloudyridercom/Nessus-Scan) 
 
-## :cloud:Cloud Projects
-
-- __Doorbell App in Azure__<br/>    - [Python App deployment with Terraform and Jenkins](https://github.com/cloudyridercom/Doorbell) 
-
-- __AD Lab in Azure__<br/>  - [Build AD Lab in Azure](https://github.com/cloudyridercom/AD-Lab)
+- __AD Lab__<br/>  - [Configure an AD Lab](https://github.com/cloudyridercom/ad_homelab)
 
 ##  👨‍💻 Python Projects
-
-- __API Development__<br/>  - [FastAPI with Postgre Database](https://github.com/cloudyridercom/FastAPI)
-
-- __FIM (File Integrity Monitor)__<br/>  - [Coding File Integrity Monitor in Python](https://github.com/cloudyridercom/FIM)
 
 - __Password Checker__<br/>  - [Securely check if your password has been hacked](https://github.com/cloudyridercom/passwordchecker)
 
 - __Hackernews API__<br/>  - [Scraping Data from Hackernews](https://github.com/cloudyridercom/Hackernews)
 
+- __Doorbell App in Azure__<br/>    - [Python App deployment with Terraform and Jenkins](https://github.com/cloudyridercom/Doorbell) 
 
 ## :page_with_curl:Certifications
   __[Security+](https://www.credly.com/badges/e3d71ddb-b555-44d6-b121-2e9bd6bb01d9/public_url), [AZ-104](https://www.credly.com/badges/4182a2a6-fae3-4134-9350-d9ba4e340234/public_url), [Splunk Power User](https://www.credly.com/badges/38dda72f-c282-4237-8a5d-7537ba472b05/public_url), BTL1__
