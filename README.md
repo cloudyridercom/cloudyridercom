@@ -1,11 +1,9 @@
 # Hi, I'm Martin! <br/> Cybersecurity Analyst
 
-## :closed_lock_with_key:Cybersecurity Projects
+## :closed_lock_with_key: Projects
 
 - __SIEM in Azure__<br/>      - [Configure Sentinel(Powershell)](https://github.com/cloudyridercom/azure_siem)
   
-- __Vulnerability Management with Nessus__<br/>    - [Configure Nessus to perform credentialed vulnerability scan](https://github.com/cloudyridercom/Nessus-Scan) 
-
 - __AD Lab__<br/>  - [Configure an AD Lab](https://github.com/cloudyridercom/ad_homelab)
 
 ##  👨‍💻 Python Projects
