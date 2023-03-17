@@ -14,8 +14,6 @@
 
 - __Hackernews__<br/>  - [Scraping Data from Hackernews](https://github.com/cloudyridercom/Hackernews)
 
-- __Doorbell App in Azure__<br/>    - [Python App deployment with Terraform and Jenkins](https://github.com/cloudyridercom/Doorbell) 
-
 ## :page_with_curl:Certifications
   __[BTL1](https://www.credly.com/badges/c4afab9e-27c3-4ec5-93d6-6ce6573fda50/public_url), [AZ-104](https://www.credly.com/badges/4182a2a6-fae3-4134-9350-d9ba4e340234/public_url), [Splunk Power User](https://www.credly.com/badges/38dda72f-c282-4237-8a5d-7537ba472b05/public_url), [Security+](https://www.credly.com/badges/e3d71ddb-b555-44d6-b121-2e9bd6bb01d9/public_url)__
 
