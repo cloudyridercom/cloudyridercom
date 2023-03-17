@@ -6,6 +6,8 @@
   
 - __AD Lab__<br/>  - [Configure an AD Lab](https://github.com/cloudyridercom/ad_homelab)
 
+- __Azure Bastion__<br/>  - [Configure Azure Bastion](https://github.com/cloudyridercom/Azure-Bastion)
+
 ##  👨‍💻 Python Projects
 
 - __Password Checker__<br/>  - [Securely check if your password has been hacked](https://github.com/cloudyridercom/passwordchecker)
